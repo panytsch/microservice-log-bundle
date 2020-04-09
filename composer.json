@@ -1,0 +1,21 @@
+{
+    "name": "cashier/microservice-log-bundle",
+    "description": "Cashier Logging Bundle",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Yehor Larionov",
+            "email": "yehor.larionov@888holdings.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0",
+        "php-amqplib/rabbitmq-bundle": "1.10.x-dev",
+        "php-amqplib/php-amqplib": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "CashierLogger\\LoggerBundle\\": "/"
+        }
+    }
+}
