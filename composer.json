@@ -1,5 +1,7 @@
 {
     "name": "cashier/microservice-log-bundle",
+    "version":"0.1",
+    "minimum-stability": "stable",
     "description": "Cashier Logging Bundle",
     "type": "symfony-bundle",
     "authors": [

@@ -25,7 +25,5 @@ class LoggerBundle
 
         $channel->close();
         $connection->close();
-
-        return new Response('Sent message');
     }
 }
