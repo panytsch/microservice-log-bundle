@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CashierLogger\\LoggerBundle\\": "/"
+            "CashierLogger\\LoggerBundle\\": "/src"
         }
     }
 }
