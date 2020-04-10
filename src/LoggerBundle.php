@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CashierLogger\Bundle\Logger;
+namespace App\CashierLogger\Bundle\Logger;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

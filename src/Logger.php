@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CashierLogger\Bundle\Logger;
+namespace App\CashierLogger\Bundle\Logger;
 
 
 use PhpAmqpLib\Connection\AMQPStreamConnection;
